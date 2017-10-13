@@ -13,5 +13,8 @@
   "devDependencies": {
     "eslint": "^4.8.0",
     "eslint-config-chisel": "https://github.com/xfiveco/eslint-config-chisel"
+  },
+  "engines": {
+    "node": ">=8"
   }
 }
