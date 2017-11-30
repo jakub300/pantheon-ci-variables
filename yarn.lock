@@ -314,16 +314,15 @@ eslint-config-airbnb-base@^12.0.2:
   dependencies:
     eslint-restricted-globals "^0.1.1"
 
-"eslint-config-chisel@https://github.com/xfiveco/eslint-config-chisel":
-  version "0.0.1"
-  resolved "https://github.com/xfiveco/eslint-config-chisel#47e58c7fe3ea7641ca7d289dff92ea92c4dd6d30"
+eslint-config-chisel@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-chisel/-/eslint-config-chisel-1.0.0.tgz#5317baebd8be06e0479586f35df315d120f2bdb4"
   dependencies:
     babel-eslint "^8.0.1"
     eslint-config-airbnb-base "^12.0.2"
     eslint-config-prettier "^2.6.0"
     eslint-plugin-import "^2.7.0"
     eslint-plugin-prettier "^2.3.1"
-    prettier "^1.7.4"
 
 eslint-config-prettier@^2.6.0:
   version "2.6.0"
@@ -904,9 +903,9 @@ prelude-ls@~1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.1.2.tgz#21932a549f5e52ffd9a827f570e04be62a97da54"
 
-prettier@^1.7.4:
-  version "1.7.4"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.7.4.tgz#5e8624ae9363c80f95ec644584ecdf55d74f93fa"
+prettier@^1.8.2:
+  version "1.8.2"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.8.2.tgz#bff83e7fd573933c607875e5ba3abbdffb96aeb8"
 
 process-nextick-args@~1.0.6:
   version "1.0.7"
